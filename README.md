@@ -5,6 +5,7 @@ Let us revisit how we to go through the whole admission process:
   2. They filled in an admission form with correct and relevant information regarding their academic career.
   3. They submitted it and waited for update on their admission exam center and serial number.
   4. After knowing their admission exam center and serial number they had to go to that particular city where the university is located in order to attend the examination.
+
 The above-mentioned process is pretty tedious and tiresome. Hence, we are introducing an entirely different admission exam system for public universities. The new rules and regulations for attending Public University exams are as follows
   1. The students will provide their required academic information to this system.
   2. The system itself will do the rest. It will calculate their GPAs and will provide them names of applicable public universities according to their grades.
