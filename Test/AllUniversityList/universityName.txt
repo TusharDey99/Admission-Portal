@@ -1,0 +1,10 @@
+|----------------------|
+| ADMISSION ASSISTANT  |-A TOUCH OF DEGITAL BANGLADESH
+|----------------------|
+
+Select University  >>
+1 >> Dhaka University
+2 >> Bangladesh University of Engineering & Technology (BUET)
+3 >> Shahjalal University of Sceience & Technology (SUST)
+4 >> Chittagong University of Engineering & Technology (CUET)
+5 >> Rajshahi University of Engineering & Technology (RUET)

@@ -1,0 +1,4 @@
+Department List : 
+1. Department of Electrical and Electronic Engineering (EEE)
+2. Department of Computer Science and Engineering (CSE)
+3. Department of Biomedical Engineering (BME)

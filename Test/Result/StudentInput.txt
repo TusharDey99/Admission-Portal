@@ -1,0 +1,11 @@
+Your name: s
+Your date of birth: s
+Your school name:s
+Your college name:s
+Your division: s
+Your SSC passing year: 3
+Your HSC passing year: 3
+Your SSC GPA :4.0
+Your HSC GPA :4.0
+Your exam date: null
+Your exam time: null

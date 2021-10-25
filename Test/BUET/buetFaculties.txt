@@ -1,0 +1,9 @@
+-----------------
+ WELCOME TO BUET 
+_________________
+List of faculty is given below
+1 : Architecture and Planning
+2 : Civil Engineering
+3 : Electrical and Electronic Engineering
+4 : General Engineering
+5 : Mechanical Engineering

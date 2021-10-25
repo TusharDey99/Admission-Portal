@@ -1,0 +1,4 @@
+Department List : 
+1. Department of Mechanical Engineering (ME)
+2. Department of Industrial and Production Engineering (IPE)
+3. Department of Naval Architecture and Marine Engineering (NAME)

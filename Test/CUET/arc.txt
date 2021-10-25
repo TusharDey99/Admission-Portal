@@ -1,0 +1,14 @@
+Departments are >> 
+
+1. Civil Engineering
+2. Water Resources Engineering
+3. Mechanical Engineering
+4. Petroleum & Mining Engineering
+5. Mechatronics and Industrial Engineering
+6. Computer Science & Engineering
+7. Electrical & Electronics Engineering
+8. Electronics & Telecommunication Engineering
+9. Urban & Regional Planning
+10.Architecture
+11.Biomedical Engineering	
+12.Material Science and Engineering

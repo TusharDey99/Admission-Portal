@@ -1,0 +1,8 @@
+Department List >> 
+
+1. Department of Industrial & Production Engineering (IPE)
+2. Glass & Ceramic Engineering (GCE)
+3. Mechatronics Engineering (MTE)
+4. Mechanical Engineering (ME)
+5. Material Science & Engineering (MSE)
+6. Chemical & Food Process Engineering (CFPE)

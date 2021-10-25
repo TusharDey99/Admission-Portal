@@ -1,0 +1,6 @@
+Department List >> 
+
+1. Computer Science & Engineering (CSE)[16]
+2. Electrical & Electronic Engineering (EEE)
+3. Electronics & Telecommunication Engineering (ETE)
+4. Electrical & Computer Engineering(ECE)

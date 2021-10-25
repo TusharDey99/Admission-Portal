@@ -1,0 +1,7 @@
+----------------------------------------------------------
+ WELCOME TO Shahjalal University of science and technology 
+__________________________________________________________
+List of Units is given below
+
+1 : A Unit (Science + Arts + Commerce)
+2 : B Unit (Science, Life Science, Applied Science)

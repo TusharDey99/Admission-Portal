@@ -1,0 +1,3 @@
+Department List : 
+1. Department of Civil Engineering (CE)
+2. Department of Water Resources Engineering (WRE)

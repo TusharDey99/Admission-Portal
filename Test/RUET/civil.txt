@@ -1,0 +1,6 @@
+Departments List >> 
+
+1. Civil Engineering (CE)
+2. Urban & Regional Planning (URP)
+3. Architecture (Arch.)
+4. Building Engineering & Construction Management (BECM)

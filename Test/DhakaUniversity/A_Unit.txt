@@ -1,0 +1,34 @@
+DU A Unit Subject list :-
+________________________
+
+1. Physics
+2. Mathematics
+3. Chemistry
+4. Statistics
+5. Applied Mathematics
+6. Soil, Water, and Environment Science
+7. Botany	
+8. Zoology
+9. Biochemistry and Motivation Science
+10.Psychology
+11.Microbiology
+12.Fisheries
+13.Genetic Engineering & Biotechnology
+14.Pharmacy
+15.Geography and environment
+16.Geology	
+17.Oceanography
+18.Disaster science and management	
+19.Electrical and Electronic Engineering
+20.Applied Chemistry and Chemistry
+21.Computer Science and Engineering
+22.Nuclear engineering
+23.Robotics and Mechanics Engineering
+24.Applied statistics
+25.Nutrition and Food Science
+26.Software engineering
+27.Leather engineering
+28.Footwear engineering
+29.Leather Products Engineering
+30.Physical Sciences
+31.Biological Science

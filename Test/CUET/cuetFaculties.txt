@@ -1,0 +1,10 @@
+-------------------------------------------------------------
+WELCOME TO Chittagong University of Engineering & Technology 
+_____________________________________________________________
+List of faculty is given below >>
+
+1. Civil Engineering
+2. Mechanical Engineering
+3. Electrical & Computer Engineering
+4. Architecture & Planning
+5. Engineering & Technology

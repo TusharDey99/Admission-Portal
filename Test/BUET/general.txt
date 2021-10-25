@@ -1,0 +1,8 @@
+Department List : 
+1. Department of Chemical Engineering (ChE)
+2. Department of Materials and Metallurgical Engineering (MME)
+3. Department of Chemistry (Chem)
+4. Department of Mathematics (Math)
+5. Department of Physics (Phys)
+6. Department of Petroleum and Mineral Resources Engineering (PMRE)
+7. Department of Glass and Ceramic Engineering (GCE)

@@ -1,0 +1,14 @@
+SUST A Unit Subject list :-
+___________________________
+
+1. Departments
+2. Economics(ECO)
+3. Sociology(SOC)			
+4. Political Studies		
+5. Public Administration(PAD)
+6. Anthropology(ANP)
+7. Social Work(SCW)		
+8. Business Administration(BAN)
+9. English(ENG)
+10.Bangla(BNG)
+11.Geography & Environmental (GEE)	

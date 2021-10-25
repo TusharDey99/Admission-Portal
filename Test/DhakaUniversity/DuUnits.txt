@@ -1,0 +1,10 @@
+-----------------------------
+ WELCOME TO DHAKA UNIVERSITY
+_____________________________
+List of Units is given below
+
+1 : A Unit (Science)
+2 : B Unit (Arts)
+3 : C Unit (Commerce)
+4 : D Unit (All)
+5 : F Unit (Drawing)

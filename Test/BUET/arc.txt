@@ -1,0 +1,4 @@
+Department List : 
+1. Department of Architecture (Arch)
+2. Department of Urban and Regional Planning (URP)
+3. Department of Humanities (Hum)

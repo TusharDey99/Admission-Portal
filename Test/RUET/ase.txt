@@ -1,0 +1,6 @@
+Department List >> 
+
+1. Department of Chemistry (Chem)
+2. Department of Mathematics (Math)
+3. Department of Physics (Phy)
+4. Department of Humanities (Hum)

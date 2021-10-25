@@ -1,0 +1,9 @@
+-------------------------------------------------------------
+WELCOME TO Rajshahi University of Engineering & Technology 
+_____________________________________________________________
+List of faculty is given below >>
+
+1. Mechanical Engineering
+2. Civil Engineering
+3. Electrical & Computer Engineering
+4. Applied Science and Engineering

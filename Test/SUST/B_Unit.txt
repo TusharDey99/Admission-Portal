@@ -1,0 +1,19 @@
+SUST B Unit Subject list :-
+___________________________
+
+Science	:	 1.Physics (PHY)
+		 2.Chemistry(CHE)
+		 3.Mathematics(MAT)
+		 4.Statistics(STA)	
+		 5.Geography & Environment (GEE)
+Life Science :	 6.Foresty and Environmental Science(FES)
+		 7.Genetic Engineering & Biotechnology(GEB)
+		 8.Food & Tea Technology (FIT)
+		 9.Biochemistry & Molecular Biology (BMB)
+Applied Science: 10.Computer Science & Engineering (CSE)
+		 11.Chemical Engineering & Polymer Science (CEP)
+		 12.Industrial & Production Engineering (IPE)
+		 13.Civil & Environmental Engineering (CEE)	
+		 14.Petroleum & Georesources Engineering (PGE)
+		 15.Electrical & Electronics Engineering (EEE)
+		 16.Architecture (ARC)

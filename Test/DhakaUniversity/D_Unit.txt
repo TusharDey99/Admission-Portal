@@ -1,0 +1,21 @@
+DU D Unit Subject list :-
+________________________
+
+1. Department of Arts
+2. Social Science
+3. Business Studies Faculty
+4. Law Faculty
+5. Department of Social Welfare and Research
+6. Institute of Health Economics
+7. Education and Research Institute
+8. Institute of Disaster Management and Vulnerability Studies
+9. Modern Language Institute
+10.Department of Arts and Social Sciences
+11.Earth and Environmental Sciences
+12.Department of Geography and Environment
+13.Biological Sciences
+14.Department of Psychology
+15.Department of Psychology
+16.Social Welfare and Research Institute
+17.Education and Research
+18.Modern Language Institute.
